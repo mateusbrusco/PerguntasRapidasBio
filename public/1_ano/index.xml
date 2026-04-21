@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1º ano on Perguntas Rápidas de Biologia</title>
+    <link>http://localhost:1313/1_ano/</link>
+    <description>Recent content in 1º ano on Perguntas Rápidas de Biologia</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/1_ano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Propriedades da água</title>
+      <link>http://localhost:1313/1_ano/1/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/1_ano/1/</guid>
+      <description>&lt;script src=&#34;https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/quizdown.js&#34;&gt;&#xD;&#xA;  &lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdownKatex.js&#34;&gt;&#xD;&#xA;  &lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdownHighlight.js&#34;&gt;&#xD;&#xA;  &lt;/script&gt;&#xD;&#xA;&lt;script&gt;quizdown.register(quizdownHighlight).register(quizdownKatex).init()&lt;/script&gt; &#xD;&#xA;&#xD;&#xA;&lt;div class=&#39;quizdown&#39;&gt;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;---&#xD;&#xA;primary_color: brown&#xD;&#xA;secondary_color: lightgray&#xD;&#xA;text_color: black&#xD;&#xA;shuffle_questions: false&#xD;&#xA;shuffleAnswers: false&#xD;&#xA;---&#xD;&#xA;&#xD;&#xA;### A molécula de água é considerada polar porque:&#xD;&#xA;&#xD;&#xA;1. [ ] A) Possui cargas elétricas iguais em toda a molécula&#xD;&#xA;1. [x] B) O oxigênio atrai mais elétrons que o hidrogênio&#xD;&#xA;1. [ ] C) Não possui ligações químicas&#xD;&#xA;1. [ ] D) É formada apenas por hidrogênio&#xD;&#xA;1. [ ] E) Não interage com outras moléculas&#xD;&#xA;&#xD;&#xA;### A propriedade que permite que alguns insetos caminhem sobre a água é:&#xD;&#xA;&#xD;&#xA;1. [ ] A) Calor específico&#xD;&#xA;1. [x] B) Tensão superficial&#xD;&#xA;1. [ ] C) Solvente universal&#xD;&#xA;1. [ ] D) Capilaridade&#xD;&#xA;1. [ ] E) Densidade&#xD;&#xA;&#xD;&#xA;### As ligações de hidrogênio na água são responsáveis por:&#xD;&#xA;&#xD;&#xA;1. [ ] A) Quebrar a molécula de água&#xD;&#xA;1. [ ] B) Unir átomos dentro da mesma molécula&#xD;&#xA;1. [x] C) Aumentar a interação entre moléculas de água&#xD;&#xA;1. [ ] D) Impedir qualquer tipo de interação&#xD;&#xA;1. [ ] E) Transformar água em gás&#xD;&#xA;&#xD;&#xA;### A água é chamada de “solvente universal” porque:&#xD;&#xA;&#xD;&#xA;1. [ ] A) Dissolve apenas substâncias orgânicas&#xD;&#xA;1. [x] B) Dissolve muitas substâncias, principalmente polares e iônicas&#xD;&#xA;1. [ ] C) Não dissolve nenhuma substância&#xD;&#xA;1. [ ] D) Só dissolve gases&#xD;&#xA;1. [ ] E) Só dissolve sais&#xD;&#xA;&#xD;&#xA;### O alto calor específico da água é importante para os seres vivos porque:&#xD;&#xA;&#xD;&#xA;1. [ ] A) Faz a água evaporar rapidamente&#xD;&#xA;1. [ ] B) Impede a dissolução de substâncias&#xD;&#xA;1. [x] C) Ajuda a manter a temperatura mais estável&#xD;&#xA;1. [ ] D) Diminui a densidade da água&#xD;&#xA;1. [ ] E) Impede reações químicas&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
